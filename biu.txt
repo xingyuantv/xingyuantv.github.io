@@ -1,19 +1,16 @@
 {
 "Home": [
-{"key":"采集","title":"七七资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1843.png"},
-{"key":"网页","title":"网页资源","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1855.png"},
-{"key":"APP","title":"APP资源","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e4012.png"},
-{"key":"直播","title":"电视直播","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e183d.png"},
-{"key":"历史","title":"历史","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e1839.png"},
-{"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
-{"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
+{"key":"采集","title":"七七资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/77.png"},
+{"key":"网页","title":"网页资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/wangye.png"},
+{"key":"APP","title":"APP资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/app.png"},
+{"key":"直播","title":"电视直播","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/live.png"},
+{"key":"历史","title":"历史","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/jilu.png"},
+{"key":"收藏","title":"收藏","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/shoucang.png"},
+{"key":"推送","title":"推送","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/tuisong.png"}
 ],
 "zhuyejiekou": [
 {"name":"Hi影视","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-{"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"},
-{"name":"萌蛋蛋","url":"http://app.mengdandan.com/xgapp.php/v1/"},
-{"name":"渔渔影视","url":"http://luobo.yugenye.site/api.php/v1.vod"},
 {"name":"创艺影视","url":"http://www.30dian.cn/api.php/v1.vod"}
 ],
 
@@ -22,10 +19,7 @@
 ],
 
 "zhujiexi": [
-
 {"name":"绿叶", "url": "https://hc.izny.cn/json.php?url="}
-
-
 ],
 
 "beiyongjiexi": [
@@ -33,7 +27,6 @@
 {"name":"诺讯","url":"https://yun.nxflv.com/?url="},
 {"name":"BL解析","url":"https://svip.bljiex.cc/?v="},
 {"name":"多多","url":"https://player.movie09.com/dplayer/?url="},
-
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"OK解析","url": "https://okjx.cc/?url="},
 {"name":"9e国语","url":"https://m3u8.look4you.top/?url="},
@@ -56,7 +49,6 @@
 {"name":"M2090","url":"https://m2090.com/?url="},
 {"name":"托乌解析","url":"https://jx.ppjbk.cn/?url="},
 {"name":"左岸","url":"https://za.kuanjv.com/?url="}
-
 ],
 
 "dianshizhibo": "
