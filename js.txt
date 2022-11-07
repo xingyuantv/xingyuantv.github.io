@@ -497,7 +497,6 @@
             "api" : "https://ghproxy.com/https://raw.githubusercontent.com/xingyuantv/tv/main/drpy.js",
             "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/xingyuantv/tv/main/js/banan.js"
         }],
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":
 ["proxy://do=live&type=txt&ext=https://ghproxy.com/https://raw.githubusercontent.com/xingyuantv/tv/main/live.txt"]}]}],
 
