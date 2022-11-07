@@ -1,12 +1,12 @@
 {
 "Home": [
-{"key":"采集","title":"七七资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/77"},
-{"key":"网页","title":"网页资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/wangye"},
-{"key":"APP","title":"APP资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/app"},
-{"key":"直播","title":"电视直播","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/live"},
-{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/jilu"},
-{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/shoucang"},
-{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/tuisong"}
+{"key":"采集","title":"七七资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/77.png"},
+{"key":"网页","title":"网页资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/wangye.png"},
+{"key":"APP","title":"APP资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/app.png"},
+{"key":"直播","title":"电视直播","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/live.png"},
+{"key":"历史","title":"历史","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/jilu.png"},
+{"key":"收藏","title":"收藏","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/shoucang.png"},
+{"key":"推送","title":"推送","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/tuisong.png"}
 //{"key": "自选网页","title": "待添加","pic": "","custom": ""}
 ],
 "zhuyejiekou": [
@@ -432,6 +432,9 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 埋堆堆65,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
+
+
+
 ",
  
 "guolvdizhi": "player.css#url=#cnzz.com#51.la",
@@ -501,6 +504,7 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 },
 
 
+
 {
   "name": "哔哩哔哩",
   "url": "https://api.bilibili.com",   
@@ -514,7 +518,7 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "\"type\":\"video",
+  "jiequshuzuqian": "{\"type\":\"video",   
   "jiequshuzuhou": "corner",
   "tupianqian": "\"pic\":\"", 
   "tupianhou": "\"",
@@ -536,7 +540,7 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
   "sousuoshifouercijiequ": "0",
   "ssjiequqian": "空",
   "ssjiequhou": "空",
-  "ssjiequshuzuqian": "\"type\":\"video",
+  "ssjiequshuzuqian": "{\"type\":\"video",
   "ssjiequshuzuhou": "corner",
   "sstupianqian": "\"pic\":\"",
   "sstupianhou": "\"",
@@ -570,6 +574,4 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
   "bflianjiehou": ",",
   "bfqianzhui": "?p="}
 
-]
-
-}
+]}
