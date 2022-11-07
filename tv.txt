@@ -1,5 +1,5 @@
 {
-"spider":"https://raw.githubusercontent.com/xingyuantv/tv/main/1008.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/xingyuantv/tv/main/1008.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
 "sites":[{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Kuaikan","name":"🔥快看影院","type": 3,"api":"csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
