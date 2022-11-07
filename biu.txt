@@ -1,12 +1,12 @@
 {
 "Home": [
-{"key":"采集","title":"七七资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/77.png"},
-{"key":"网页","title":"网页资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/wangye.png"},
-{"key":"APP","title":"APP资源","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/app.png"},
-{"key":"直播","title":"电视直播","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/live.png"},
-{"key":"历史","title":"历史","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/jilu.png"},
-{"key":"收藏","title":"收藏","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/shoucang.png"},
-{"key":"推送","title":"推送","pic":"https://notabug.org/xingyuan/tv/raw/main/jpg/tuisong.png"}
+{"key":"采集","title":"七七资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/77"},
+{"key":"网页","title":"网页资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/wangye"},
+{"key":"APP","title":"APP资源","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/app"},
+{"key":"直播","title":"电视直播","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/live"},
+{"key":"历史","title":"历史","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/jilu"},
+{"key":"收藏","title":"收藏","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/shoucang"},
+{"key":"推送","title":"推送","pic":"https://raw.githubusercontent.com/xingyuantv/tv/main/jpg/tuisong"}
 //{"key": "自选网页","title": "待添加","pic": "","custom": ""}
 ],
 "zhuyejiekou": [
