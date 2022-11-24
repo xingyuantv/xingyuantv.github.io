@@ -1,5 +1,5 @@
 {
-   // "spider" : "https://notabug.org/xingyuan/tv/raw/main/js.jar;md5;E4F20B2BA218A44B89B9893BBBFE5848",
+   "spider" : "https://notabug.org/xingyuan/tv/raw/main/js.jar;md5;E4F20B2BA218A44B89B9893BBBFE5848",
     "sites" : [
             {
             "key" : "drpy_js_酷云77",
