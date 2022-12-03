@@ -19,8 +19,9 @@
 ],
 
 "zhujiexi": [
-{"name":"解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"绿叶", "url": "https://hc.izny.cn/json.php?url="}
+// {"name":"解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name": "懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url="}
+//{"name":"绿叶", "url": "https://hc.izny.cn/json.php?url="}
 ],
 
 "beiyongjiexi": [
