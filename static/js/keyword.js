@@ -23,7 +23,7 @@ $(function () {
     { url: 'https://www.google.com/search?q=', type: 'google' },
     { url: 'http://www.cilimao.cc/search?word=', type: 'cili' },
     { url: 'http://neets.cc/search?key=', type: 'yingyin' },
-    { url: 'http://www.panduoduo.net/s/name/', type: 'wangpan' },
+    { url: 'http://www.pansoso.org/zh/', type: 'wangpan' },
   ];
   $searchLogo.on('click', function () {
     $searchMethods.show();
