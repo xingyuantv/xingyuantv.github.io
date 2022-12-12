@@ -19,8 +19,9 @@
 ],
 
 "zhujiexi": [
-// {"name":"解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name": "懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url="}
+{"name":"解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
+{"name": "懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+{"name":"rx解析","url":"http://rxjx.kuanjv.com/allm3u8.php?url="}
 //{"name":"绿叶", "url": "https://hc.izny.cn/json.php?url="}
 ],
 
@@ -32,7 +33,7 @@
 {"name":"诺讯","url":"https://yun.nxflv.com/?url="},
 {"name":"BL解析","url":"https://svip.bljiex.cc/?v="},
 {"name":"多多","url":"https://player.movie09.com/dplayer/?url="},
-
+{"name":"盘古1","url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"OK解析","url": "https://okjx.cc/?url="},
 {"name":"9e国语","url":"https://m3u8.look4you.top/?url="},
 {"name":"全民解析","url":"http://api.wpsseo.cn/?v="},
@@ -357,6 +358,9 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 浙江少儿,http://yd-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8?zzhed
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8?zzhed
+福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8?zfud
+江西少儿,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
+甘肃少儿,http://39.134.32.102:6610/270000001111/1110000327/index.m3u8?IASHttpSessionId=OTT
 黑龙江少儿,http://39.134.65.151/PLTV/88888888/224/3221226002/1.m3u8?zheild
 黑龙江少儿,http://39.134.65.145/PLTV/88888888/224/3221226002/1.m3u8?zheild
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
@@ -434,13 +438,12 @@ CCTV-精品记录,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 埋堆堆65,http://txtest-xp2p.p2p.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.xs
 埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
-
-
-
 ",
  
-"guolvdizhi": "player.css#url=#cnzz.com#51.la",
- 
+"嗅探词":"m3u8?#ixigua#.czspp#.m3u8#.mp4#.flv#.mp3#.m4a#?video_id=#.htm",
+
+"guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#czspp.com#bilibili.com#888kanqiu.com",
+
 "zidingyi": [
 {
         "name": "饭团影视",
